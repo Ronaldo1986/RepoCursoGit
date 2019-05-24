@@ -1,5 +1,5 @@
 # Teste
 
-![Udemy Logo] (UdemyLogo.png)
+![UdemyLogo](./UdemyLogo.png)
 
 Este repositório serve de exemplo para teste do curso Git Udemy
