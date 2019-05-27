@@ -6,3 +6,4 @@ Testando
 Adicionando nova linha em arquivo existente
 Alterando pelo GitHub online
 Testando "git pull" para atualizar arquivos
+COnflito, original
