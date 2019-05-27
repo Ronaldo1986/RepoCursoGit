@@ -8,6 +8,7 @@ Alterando pelo GitHub online
 Testando "git pull" para atualizar arquivos
 Causando conflito
 COnflito, original
+<<<<<<< HEAD
 *---------------------------------------------
 Teste alterando documento em nova branch
 //////////////////////////////////////
@@ -15,3 +16,4 @@ Alteração do arquivo na master
 
 1
 10
+Testando fetch
