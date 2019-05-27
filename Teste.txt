@@ -12,3 +12,5 @@ COnflito, original
 Teste alterando documento em nova branch
 //////////////////////////////////////
 Alteração do arquivo na master
+
+1
