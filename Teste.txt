@@ -8,3 +8,5 @@ Alterando pelo GitHub online
 Testando "git pull" para atualizar arquivos
 Causando conflito
 COnflito, original
+*---------------------------------------------
+Teste alterando documento em nova branch
