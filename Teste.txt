@@ -17,3 +17,7 @@ Alteração do arquivo na master
 1
 10
 Testando fetch
+
+if .t.
+  *Faça isto
+endif
